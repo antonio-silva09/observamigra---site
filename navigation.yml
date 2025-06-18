@@ -1,0 +1,9 @@
+main:
+  - title: "Início"
+    url: "/"
+  - title: "Sobre"
+    children:
+      - title: "O projeto"
+        url: "/sobre/"
+      - title: "Equipe"
+        url: "/equipe/"
