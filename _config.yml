@@ -3,14 +3,5 @@ description: "Blog sobre migração, discursos públicos e políticas comparadas
 remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-include-cache
+navigation: main
 
-# Navegação
-navigation:
-  - title: "Início"
-    url: "/"
-  - title: "Sobre"
-    children:
-      - title: "O projeto"
-        url: "/sobre/"
-      - title: "Equipe"
-        url: "/equipe/"
